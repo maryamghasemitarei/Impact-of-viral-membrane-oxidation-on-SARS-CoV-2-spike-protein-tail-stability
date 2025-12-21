@@ -1,5 +1,5 @@
 All files are related to atricle titled "Impact of viral membrane oxidation on SARS-CoV-2 spike protein
-tail stability" by Maryam Ghasemitarei, Cristina Gyursánszky, and Tapio Ala-Nissila..
+tail stability" by Maryam Ghasemitarei, Cristina Gyursánszky, Mikko Karttunen, and Tapio Ala-Nissila..
 All correspondances could be send to "tapio.ala-nissila@aalto.fi"
 This folder containes: 
 1- The file of Supportive information "supportive-information"
