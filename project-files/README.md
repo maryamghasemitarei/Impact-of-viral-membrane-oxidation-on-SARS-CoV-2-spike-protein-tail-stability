@@ -1,4 +1,5 @@
 This folder containes:
+
 1- molecular dynamics parameters for GROMACS 2020 software (.mdp files)
 2- the folder named "0%" contains all input files of simulation of protein embedded in the membrane with 0% of oxidized POPC.
 3- the folder named "25%" contains all input files of simulation of protein embedded in the membrane with 25% of oxidized POPC.
