@@ -1,4 +1,4 @@
-This folder containes all files related to 50% of POPC oxidation:
+This folder containes all files related to 25% of POPC oxidation:
 
 1- the folder named "toppar" contains the bonded, non-bonded parameters of atoms and the position restraints of proteins in charmm36 force field. 
 
